@@ -1,0 +1,14 @@
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env*
+
+# Go
+backend/*.exe
+backend/crm.db
+
+# Editor e sistema
+.cursor/
+.vscode/
+.DS_Store
+Thumbs.db
